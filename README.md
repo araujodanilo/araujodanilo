@@ -33,7 +33,7 @@ Hello, I'm Danilo Araujo, also known as Tofito. 🪪😅
 
 ## How to Reach Me 📬
 
-<p align="center">
+<p align="start">
   <a href="https://www.linkedin.com/in/danilo-araujo-7b20271a7"><img src="https://img.shields.io/badge/-Linkedin-0E76A8?style=for-the-badge&logo=Linkedin"/> </a>
 </p>
 
