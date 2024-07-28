@@ -35,7 +35,6 @@ Hello, I'm Danilo Araujo, also known as Tofito. 🪪😅
 
 <p align="center">
   <a href="https://www.linkedin.com/in/danilo-araujo-7b20271a7"><img src="https://img.shields.io/badge/-Linkedin-0E76A8?style=for-the-badge&logo=Linkedin"/> </a>
-  <a href="https://www.instagram.com/oaraujod/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
 </p>
 
 ## Languages and Technologies 💻
