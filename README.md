@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=araujodanilo&style=for-the-gkodfijghopdbadge)
+fjisdhgfbsjgo
 <!--rihyd8fg7yaeo jvgio
 **araujodanilo/araujodanilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
