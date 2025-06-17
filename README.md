@@ -1,6 +1,6 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=araujodanilo&style=for-the-badge)
-<!--
+![](https://komarev.com/ghpvc/?username=araujodanilo&style=for-the-gkodfijghopdbadge)
+<!--rihyd8fg7yaeo jvgio
 **araujodanilo/araujodanilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
